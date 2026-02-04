@@ -1,2 +1,2 @@
 # html-webpage-lab-w3schools
-Group members:
+Group members: Ivanna Christian Francis 
