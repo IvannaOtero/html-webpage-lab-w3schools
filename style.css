@@ -1,0 +1,44 @@
+html {
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+#Learn {
+    background-color: #282A35;
+    text-align: center; 
+    font-family: "Source Sans Pro", sans-serif;
+}
+
+#Learn h1 {
+    color: white; 
+    padding-top: 1.5em;
+    font-weight: bold;
+    font-size: 5em; 
+}
+
+#Learn h3 {
+    color: rgb(244, 244, 157);
+    font-size: 1.6em;
+}
+
+#Learn img {
+    margin-left: auto; 
+    margin-right: auto;
+    padding-bottom: 2em; 
+    padding-left: em;
+    padding-top: 2em; 
+}
+
+#Learn a:link {
+    color: white;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+
+#Learn a:hover {
+    color:  rgb(244, 244, 157);
+}
+
+#HTML {
+    background-color: #D9EEE1;
+}
+
